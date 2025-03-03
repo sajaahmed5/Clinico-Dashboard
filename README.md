@@ -12,7 +12,7 @@ The **Clinico Dashboard** is an interactive data visualization tool designed to 
 
 ## Technologies Used
 - **Data Processing**: Python (Pandas, NumPy) / SQL
-- **Data Visualization**: Power BI / Tableau / Matplotlib / Seaborn
+- **Data Visualization**: Power BI 
 - **Database**: PostgreSQL / MySQL (if applicable)
 
 ## Requirements
@@ -31,12 +31,12 @@ pip install pandas numpy matplotlib seaborn
 ```
 Clinico-Dashboard/
 │-- data/                    # Dataset files (if applicable)
-│-- scripts/                 # Data processing scripts
 │-- dashboard.pbix           # Power BI file (if using Power BI)
-│-- dashboard.twb            # Tableau file (if using Tableau)
+│-- dashboard.pdf            # PDF file for the dashboard
 │-- README.md                # Project documentation
 ```
-
+## PowerBI Link
+You can access the interactive dashboard from here [Clinico Dashboard](https://app.powerbi.com/view?pageName=6ce4b4970d762740085c&r=eyJrIjoiMDM5ZDdmOTItMzc1NS00ODVhLWI2OGYtOGRkYTNmNWI3NmM2IiwidCI6ImE0ZTBiMmQwLWIzMDYtNGE4Ny05YTk0LTJhY2YxNTNmZWYxNiJ9)
 ## Results
 - A fully interactive clinical dashboard
 - Data-driven insights for healthcare decision-making
